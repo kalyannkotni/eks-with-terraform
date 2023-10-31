@@ -1,3 +1,3 @@
 Assessment - 2
 
-Create EKS with terraform
+Create EKS with terraform# terraform-awscp-nginx

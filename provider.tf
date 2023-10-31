@@ -10,7 +10,7 @@ terraform {
   }
   backend "s3" {
     bucket = "s3-terraform-statefile-as2"
-    key = "terraform.tfstate"
+    key    = "terraform.tfstate"
     region = "ap-south-1"
   }
 }
