@@ -1,3 +1,1 @@
-Assessment - 2
-
-Create EKS with terraform# terraform-awscp-nginx
+deploy nginx on EKS with terraform
